@@ -12,4 +12,4 @@ The AD8232 is a neat little chip used to measure the electrical activity of the 
 ## QRS complex
 Visualization:
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AECG_Principle_fast.gif&psig=AOvVaw0-p2E2OMFIUH7YY4oyV5GG&ust=1694619002928000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjt5u-xpYEDFQAAAAAdAAAAABAE" width="300px"/>
+<img src="https://github.com/kirushak/-Arduino-Uno-with-AD8232-Heart-Monitor/blob/main/ECG_principle_slow.gif" width="300px"/>
