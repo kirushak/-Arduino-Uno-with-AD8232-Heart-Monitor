@@ -2,7 +2,7 @@
 
 ## Motivation
 ECG is a type of time-series data, it has its own particular properties.
-This project is created to learn these specifics and how to obtain valuable features from the ECG signal. In particular, from QRS complexes, RR intervals.
+This project is created to learn these specifics and how to obtain valuable features from the ECG signal.
 
 [![AD8232 Breakout Board](https://cdn.sparkfun.com/assets/learn_tutorials/2/5/0/HeartRateBoardFront.jpg)](https://www.sparkfun.com/products/12650)
 
