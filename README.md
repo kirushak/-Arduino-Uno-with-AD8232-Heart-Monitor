@@ -9,7 +9,13 @@ This project is created to learn these specifics and how to obtain valuable feat
 The AD8232 is a neat little chip used to measure the electrical activity of the heart. This electrical activity can be charted as an ECG or Electrocardiogram. [Electrocardiography](http://en.wikipedia.org/wiki/Electrocardiography) is used to help diagnose various heart conditions. [The datasheet can be found here.](https://cdn.sparkfun.com/datasheets/Sensors/Biometric/AD8232.pdf)
 
 
-
 ## QRS complex
 Visualization:
+
 <img src="images/ECG_principle_slow.gif" width="300px"/>
+
+
+## Screenshots
+
+Raw signal:
+![Raw signal](images/raw_signal.png)
