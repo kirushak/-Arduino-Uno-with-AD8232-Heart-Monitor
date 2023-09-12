@@ -12,5 +12,4 @@ The AD8232 is a neat little chip used to measure the electrical activity of the 
 ## QRS complex
 Visualization:
 
-<img align="center" alt="Coding" width="550" 
-src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AECG_principle_slow.gif&psig=AOvVaw0dTf7u9cteScLewjuIU-xC&ust=1694618652089000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjv_sewpYEDFQAAAAAdAAAAABAT
+
